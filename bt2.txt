@@ -1,1 +1,3 @@
 Bài tập 2
+
+- Hôm nay học git
